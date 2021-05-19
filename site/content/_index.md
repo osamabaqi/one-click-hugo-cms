@@ -1,7 +1,7 @@
 ---
 title: Hello Moto
 subtitle: Support sustainable farming while enjoying a cup
-image: img/about-jumbotron.jpg
+image: img/photo-1438786657495-640937046d18.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
