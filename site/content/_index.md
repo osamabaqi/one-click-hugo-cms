@@ -1,6 +1,7 @@
 ---
 title: Hello Moto
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Discover our new unlocked Android phones from motorola and stay
+  informed about our offers and promotions.
 image: img/photo-1438786657495-640937046d18.jpg
 blurb:
   heading: Why Kaldi?
